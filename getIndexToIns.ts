@@ -7,3 +7,4 @@ function getIndexToIns(arr: number[], num: number) {
 getIndexToIns([40, 60], 50);
 
 console.log(getIndexToIns([2, 5, 10], 15));
+
